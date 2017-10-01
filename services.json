@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Harware Repair",
+    "description":"Repair guides for computer components, peripherals, and accessories. Computer Hardware troubleshooting, repair, and service manuals.",
+    "image": "2000px-Gnome-emblem-system.svg.png"
+  },
+  {
+    "id": 2,
+    "name": "Virus Removal",
+    "description":"virus removal tool that targets and destroys threats to your computer.",
+    "image": "2000px-Gnome-emblem-system.svg.png"
+  }, 
+  {
+    "id": 3,
+    "name": "System Tuneup",
+    "description":"System TuneUp is a collection of tools to optimize your Windows PC performance. With System TuneUp, you can: Remove unneeded files from your disk.",
+    "image": "2000px-Gnome-emblem-system.svg.png"
+  }
+]

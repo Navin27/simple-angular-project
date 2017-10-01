@@ -1,0 +1,29 @@
+[
+	{
+		"id" : 1,
+		"name":"Pondicherry Location",
+		"street_address":"Kalapet ",
+		"city":"Puducherry",
+		"state":"Puducherry",
+		"zip":"605014",
+		"phone":"9122069781"
+	},
+	{
+		"id" : 2,
+		"name":"Chennai Location",
+		"street_address":"54 Central",
+		"city":"Guindi",
+		"state":"Chennai",
+		"zip":"604855",
+		"phone":"9786789065"
+	},
+	{
+		"id" : 3,
+		"name":"Coaimbtur Location",
+		"street_address":"79 Mass",
+		"city":"Coimbat",
+		"state":"Chennai",
+		"zip":"605788",
+		"phone":"617-555-6789"
+	}
+]
